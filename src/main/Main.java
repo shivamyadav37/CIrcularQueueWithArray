@@ -8,5 +8,9 @@ public class Main {
         obj.offer(5);
         obj.offer(7);
         obj.offer(8);
+        obj.offer(9);
+        int a = obj.peek();
+        System.out.println(a);
+
     }
 }
