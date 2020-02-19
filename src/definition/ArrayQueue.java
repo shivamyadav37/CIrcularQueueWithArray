@@ -1,7 +1,5 @@
 package definition;
 
-//package CircularArrayQueue;
-
 import adt.CircularQueueArrayADT;
 
 public class ArrayQueue<E> implements CircularQueueArrayADT<E> {
